@@ -1,0 +1,1182 @@
+<?xml version="1.0"?>
+<TS>
+  <context>
+    <name>Common</name>
+    <message>
+      <source>dan</source>
+      <translation>дан</translation>
+    </message>
+    <message>
+      <source>d</source>
+      <translation>д</translation>
+    </message>
+    <message>
+      <source>kyu</source>
+      <translation>кю</translation>
+    </message>
+    <message>
+      <source>k</source>
+      <translation>к</translation>
+    </message>
+    <message>
+      <source>Komi</source>
+      <translation>Kомі</translation>
+    </message>
+    <message>
+      <source>½ komi</source>
+      <translation>½ комі</translation>
+    </message>
+    <message>
+      <source>komi</source>
+      <translation>комі</translation>
+    </message>
+    <message>
+      <source>stone</source>
+      <translation>камінь</translation>
+    </message>
+    <message>
+      <source>stones </source>
+      <translation>камені</translation>
+    </message>
+    <message>
+      <source>stones</source>
+      <translation>каменів</translation>
+    </message>
+    <message>
+      <source>point</source>
+      <translation>очко</translation>
+    </message>
+    <message>
+      <source>points </source>
+      <translation>очки</translation>
+    </message>
+    <message>
+      <source>points</source>
+      <translation>очок</translation>
+    </message>
+    <message>
+      <source>level</source>
+      <translation>розряд</translation>
+    </message>
+    <message>
+      <source>levels </source>
+      <translation>розряда</translation>
+    </message>
+    <message>
+      <source>levels</source>
+      <translation>розрядів</translation>
+    </message>
+    <message>
+      <source>Calculated MacMahon score</source>
+      <translation>Кількість очок Макмагона</translation>
+    </message>
+    <message>
+      <source>Score without missed rounds</source>
+      <translation>Очки без турів, де гравець не брав участі</translation>
+    </message>
+    <message>
+      <source>Number of wins</source>
+      <translation>Кількість перемог</translation>
+    </message>
+    <message>
+      <source>Sum of defeated oppenent scores</source>
+      <translation>Сума очок переможених суперників</translation>
+    </message>
+    <message>
+      <source>Sum of opponent score</source>
+      <translation>Сума очок суперників</translation>
+    </message>
+    <message>
+      <source>Sum of oppenent SOS</source>
+      <translation>Сума кБух суперників</translation>
+    </message>
+    <message>
+      <source>Sum of optional Result points</source>
+      <translation>Сума додаткових очок за партіями</translation>
+    </message>
+    <message>
+      <source>Personal game result comparing</source>
+      <translation>Результат особистої зустрічи</translation>
+    </message>
+    <message>
+      <source>Place</source>
+      <translation>Місце</translation>
+    </message>
+    <message>
+      <source>Pl.</source>
+      <translation>№</translation>
+    </message>
+    <message>
+      <source>#</source>
+      <translation>№</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ім'я</translation>
+    </message>
+    <message>
+      <source>Country</source>
+      <translation>Країна</translation>
+    </message>
+    <message>
+      <source>Nationality</source>
+      <translation>Громадянство</translation>
+    </message>
+    <message>
+      <source>City</source>
+      <translation>Місто</translation>
+    </message>
+    <message>
+      <source>Club</source>
+      <translation>Клуб</translation>
+    </message>
+    <message>
+      <source>Team</source>
+      <translation>Команда</translation>
+    </message>
+    <message>
+      <source>Rank</source>
+      <translation>Ранг</translation>
+    </message>
+    <message>
+      <source>Rating</source>
+      <translation>Рейтинг</translation>
+    </message>
+    <message>
+      <source>Group</source>
+      <translation>Група</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Групи</translation>
+    </message>
+    <message>
+      <source>Points</source>
+      <translation>Перемоги</translation>
+    </message>
+    <message>
+      <source>Result points</source>
+      <translation>Рахунок</translation>
+    </message>
+    <message>
+      <source>Score</source>
+      <translation>Очки</translation>
+    </message>
+    <message>
+      <source>SOS</source>
+      <translation>кБух</translation>
+    </message>
+    <message>
+      <source>SODOS</source>
+      <translation>кБерг</translation>
+    </message>
+    <message>
+      <source>SOSOS</source>
+      <translation>кБух₂</translation>
+    </message>
+    <message>
+      <source>SOUD</source>
+      <translation>Підйом</translation>
+    </message>
+    <message>
+      <source>ScoreX</source>
+      <translation>Очки₂</translation>
+    </message>
+    <message>
+      <source>SORP</source>
+      <translation>Дод.</translation>
+    </message>
+    <message>
+      <source>PGRC</source>
+      <translation>Зустріч</translation>
+    </message>
+    <message>
+      <source>Board</source>
+      <translation>Дошка</translation>
+    </message>
+    <message>
+      <source>Black</source>
+      <translation>Чорні</translation>
+    </message>
+    <message>
+      <source>White</source>
+      <translation>Білі</translation>
+    </message>
+    <message>
+      <source>Handicap</source>
+      <translation>Фора</translation>
+    </message>
+    <message>
+      <source>Result</source>
+      <translation>Результат</translation>
+    </message>
+    <message>
+      <source>Tournament name</source>
+      <translation>Назва турніру</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Опис</translation>
+    </message>
+    <message>
+      <source>Round</source>
+      <translation>Тур</translation>
+    </message>
+    <message>
+      <source>Before</source>
+      <translation>перед</translation>
+    </message>
+    <message>
+      <source>After</source>
+      <translation>після</translation>
+    </message>
+    <message>
+      <source>round</source>
+      <translation>туру</translation>
+    </message>
+    <message>
+      <source>round </source>
+      <translation>туром</translation>
+    </message>
+    <message>
+      <source>Go to round</source>
+      <translation>Перейти до туру</translation>
+    </message>
+    <message>
+      <source>Start scores</source>
+      <translation>Стартові очки</translation>
+    </message>
+    <message>
+      <source>Start number</source>
+      <translation>Стартовий номер</translation>
+    </message>
+    <message>
+      <source>It is impossible to pair. Check the participants amount and the tournament settings.</source>
+      <translation>Неможливо провести жеребкування. Перевірте кількість учасників та налаштування турніру.</translation>
+    </message>
+    <message>
+      <source>It is impossible to syhchronize. Check the Internet connection.</source>
+      <translation>Неможливо провести синхронізацію. Перевірте підключення до мережі Інтернет.</translation>
+    </message>
+    <message>
+      <source>Warning!</source>
+      <translation>Увага!</translation>
+    </message>
+    <message>
+      <source>New</source>
+      <translation>Створити</translation>
+    </message>
+    <message>
+      <source>Open ...</source>
+      <translation>Відкрити ...</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Зберегти</translation>
+    </message>
+    <message>
+      <source>Save as ...</source>
+      <translation>Зберегти як ...</translation>
+    </message>
+    <message>
+      <source>Print Wall List ...</source>
+      <translation>Надрукувати турнірну таблицю ...</translation>
+    </message>
+    <message>
+      <source>Print pairing table ...</source>
+      <translation>Надрукувати таблицю жеребкування ...</translation>
+    </message>
+    <message>
+      <source>Export Wall List ...</source>
+      <translation>Експортувати турнірну таблицю ...</translation>
+    </message>
+    <message>
+      <source>Export Round-robin Wall List...</source>
+      <translation>Експортувати кругову турнірну таблицю ...</translation>
+    </message>
+    <message>
+      <source>Export pairing table ...</source>
+      <translation>Експортувати таблицю жеребкування ...</translation>
+    </message>
+    <message>
+      <source>Export data for Rating system ...</source>
+      <translation>Експортувати дані для рейтинг-системи ...</translation>
+    </message>
+    <message>
+      <source>Export data for Rating system (eng.) ...</source>
+      <translation>Експортувати дані для рейтинг-системи (англ.) ...</translation>
+    </message>
+    <message>
+      <source>Tournament</source>
+      <translation>Турнір</translation>
+    </message>
+    <message>
+      <source>Pairing</source>
+      <translation>Жеребкування</translation>
+    </message>
+    <message>
+      <source>Players</source>
+      <translation>Гравці</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Додати</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Імпортувати</translation>
+    </message>
+    <message>
+      <source>Properties</source>
+      <translation>Налаштування</translation>
+    </message>
+    <message>
+      <source>Print</source>
+      <translation>Друк</translation>
+    </message>
+    <message>
+      <source>Exit</source>
+      <translation>Вихід</translation>
+    </message>
+    <message>
+      <source>Close</source>
+      <translation>Закрити</translation>
+    </message>
+    <message>
+      <source>Clean pairs</source>
+      <translation>Очистити жеребкування</translation>
+    </message>
+    <message>
+      <source>Auto pairing</source>
+      <translation>Виконати жеребкування</translation>
+    </message>
+    <message>
+      <source>Add pair</source>
+      <translation>Додати пару</translation>
+    </message>
+    <message>
+      <source>Wall List</source>
+      <translation>Турнірна таблиця</translation>
+    </message>
+    <message>
+      <source>Refresh Wall List</source>
+      <translation>Поновити турнірну таблицю</translation>
+    </message>
+    <message>
+      <source>Pairing</source>
+      <translation>Жеребкування</translation>
+    </message>
+    <message>
+      <source>Pair</source>
+      <translation>Пара</translation>
+    </message>
+    <message>
+      <source>First Player</source>
+      <translation>Чорні</translation>
+    </message>
+    <message>
+      <source>Second Player</source>
+      <translation>Білі</translation>
+    </message>
+    <message>
+      <source>Result</source>
+      <translation>Результат</translation>
+    </message>
+    <message>
+      <source>Tournament properties</source>
+      <translation>Налаштування турніру</translation>
+    </message>
+    <message>
+      <source>Main</source>
+      <translation>Основні</translation>
+    </message>
+    <message>
+      <source>Criteria</source>
+      <translation>Критерії</translation>
+    </message>
+    <message>
+      <source>Pairing restrictions</source>
+      <translation>Заперечення жеребкування</translation>
+    </message>
+    <message>
+      <source>OK</source>
+      <translation>OK</translation>
+    </message>
+    <message>
+      <source>Apply</source>
+      <translation>Застосувати</translation>
+    </message>
+    <message>
+      <source>Save and create new</source>
+      <translation>Зберегти та створити ще</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Скасувати</translation>
+    </message>
+    <message>
+      <source>Board size</source>
+      <translation>Розмір дошки</translation>
+    </message>
+    <message>
+      <source>Rating determines rank</source>
+      <translation>Визначати ранг за рейтингом</translation>
+    </message>
+    <message>
+      <source>Upper MacMahon bar</source>
+      <translation>Верхня група Макмагона</translation>
+    </message>
+    <message>
+      <source>Lower MacMahon bar</source>
+      <translation>Нижня група Макмагона</translation>
+    </message>
+    <message>
+      <source>top group</source>
+      <translation>верхня група</translation>
+    </message>
+    <message>
+      <source>Allow jigo (give ½ komi otherwise)</source>
+      <translation>Дозволити нічию (інакше - ½ комі)</translation>
+    </message>
+    <message>
+      <source>Number of rounds</source>
+      <translation>Кількість турів</translation>
+    </message>
+    <message>
+      <source>Number of players</source>
+      <translation>Кількість гравців</translation>
+    </message>
+    <message>
+      <source>Number of prizes</source>
+      <translation>Кількість призів</translation>
+    </message>
+    <message>
+      <source>Number of team players</source>
+      <translation>Кількість гравців у команді</translation>
+    </message>
+    <message>
+      <source>Use MacMahon start scores</source>
+      <translation>Застосовувати стартові очки Макмагона</translation>
+    </message>
+    <message>
+      <source>Assing start scores without gaps</source>
+      <translation>Призначати стартові очки без пропусків</translation>
+    </message>
+    <message>
+      <source>Set start scores manually</source>
+      <translation>Встановлювати стартові очки власноруч</translation>
+    </message>
+    <message>
+      <source>By level</source>
+      <translation>За рівнем</translation>
+    </message>
+    <message>
+      <source>By amount</source>
+      <translation>За кількістю</translation>
+    </message>
+    <message>
+      <source>Use Drag&amp;Drop to change order</source>
+      <translation>Застосовуйте Drag&amp;Drop для зміни порядку</translation>
+    </message>
+    <message>
+      <source>These parameters are not used for the top group member</source>
+      <translation>Ці параметри не використовуються для членів верхньої групи</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Активні</translation>
+    </message>
+    <message>
+      <source>Available</source>
+      <translation>Доступні</translation>
+    </message>
+    <message>
+      <source>from same country</source>
+      <translation>з однієї країни</translation>
+    </message>
+    <message>
+      <source>from same club</source>
+      <translation>з одного клубу</translation>
+    </message>
+    <message>
+      <source>with same nationality</source>
+      <translation>з однаковим громадянством</translation>
+    </message>
+    <message>
+      <source>of same team</source>
+      <translation>з однієї команди</translation>
+    </message>
+    <message>
+      <source>of same coach</source>
+      <translation>з однаковим тренером</translation>
+    </message>
+    <message>
+      <source>Handicap calculation base</source>
+      <translation>Основа розрахунку фори</translation>
+    </message>
+    <message>
+      <source>Players' rank</source>
+      <translation>Ранги гравців</translation>
+    </message>
+    <message>
+      <source>Players' rating</source>
+      <translation>Рейтинги гравців</translation>
+    </message>
+    <message>
+      <source>Players' current points</source>
+      <translation>Поточний рахунок гравців</translation>
+    </message>
+    <message>
+      <source>Below level</source>
+      <translation>Розраховувати фору тільки для гравців слабкіше зазначеного рівня</translation>
+    </message>
+    <message>
+      <source>Adjust by (stones)</source>
+      <translation>Додавати вказану кількість каменів до значення фори</translation>
+    </message>
+    <message>
+      <source>Limit handicap to (stones)</source>
+      <translation>Максимальна кількість каменів фори</translation>
+    </message>
+    <message>
+      <source>Include handicap in the calculation of the breakers (SOS, SOSOS, etc.)</source>
+      <translation>Враховувати фору під час розрахунку критеріїв (кБух, кБух₂ та ін.)</translation>
+    </message>
+    <message>
+      <source>Calculate additional komi</source>
+      <translation>Нараховувати додаткове комі</translation>
+    </message>
+    <message>
+      <source>Use handicap</source>
+      <translation>Застосовувати фору</translation>
+    </message>
+    <message>
+      <source>Player</source>
+      <translation>Гравець</translation>
+    </message>
+    <message>
+      <source>EGD Search Error</source>
+      <translation>Помилка пошуку в EGD</translation>
+    </message>
+    <message>
+      <source>EGD name (up to 4 characters)</source>
+      <translation>Ім'я в EGD (до 4-х символів)</translation>
+    </message>
+    <message>
+      <source>Search result</source>
+      <translation>Результати пошуку</translation>
+    </message>
+    <message>
+      <source>Data</source>
+      <translation>Дані</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Прізвище</translation>
+    </message>
+    <message>
+      <source>First name</source>
+      <translation>Ім'я</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Реєстрація</translation>
+    </message>
+    <message>
+      <source>Preliminary</source>
+      <translation>Попередня</translation>
+    </message>
+    <message>
+      <source>Finally</source>
+      <translation>Остаточна</translation>
+    </message>
+    <message>
+      <source>Playing in rounds</source>
+      <translation>Грає в турах</translation>
+    </message>
+    <message>
+      <source>Search in EGD</source>
+      <translation>Шукати в EGD</translation>
+    </message>
+    <message>
+      <source>Clear fields</source>
+      <translation>Очистити поля</translation>
+    </message>
+    <message>
+      <source>Create club</source>
+      <translation>Створити клуб</translation>
+    </message>
+    <message>
+      <source>Edit club</source>
+      <translation>Редагувати клуб</translation>
+    </message>
+    <message>
+      <source>Pin</source>
+      <translation>Pin-код</translation>
+    </message>
+    <message>
+      <source>Select</source>
+      <translation>Обрати</translation>
+    </message>
+    <message>
+      <source>Comments</source>
+      <translation>Коментарі</translation>
+    </message>
+    <message>
+      <source>Game result</source>
+      <translation>Результат гри</translation>
+    </message>
+    <message>
+      <source>Adjust by</source>
+      <translation>Зсунути на</translation>
+    </message>
+    <message>
+      <source>Result by referee decision</source>
+      <translation>Результат за рішенням судді</translation>
+    </message>
+    <message>
+      <source>Points for winner or black in drawn game. Used for SORP.</source>
+      <translation>Очки для переможця чи для чорних у разі нічиї. Використовується для SORP.</translation>
+    </message>
+    <message>
+      <source>Board number is fixed</source>
+      <translation>Зафіксувати номер дошки</translation>
+    </message>
+    <message>
+      <source>Force pairing</source>
+      <translation>Жеребкування власноруч</translation>
+    </message>
+    <message>
+      <source>Swap players</source>
+      <translation>Переставити гравців</translation>
+    </message>
+    <message>
+      <source>Delete</source>
+      <translation>Видалити</translation>
+    </message>
+    <message>
+      <source>b</source>
+      <translation>ч</translation>
+    </message>
+    <message>
+      <source>w</source>
+      <translation>б</translation>
+    </message>
+    <message>
+      <source>Reports</source>
+      <translation>Звіти</translation>
+    </message>
+    <message>
+      <source>Help</source>
+      <translation>Допомога</translation>
+    </message>
+    <message>
+      <source>Theme</source>
+      <translation>Тема</translation>
+    </message>
+    <message>
+      <source>Clean theme</source>
+      <translation>Очистити тему</translation>
+    </message>
+    <message>
+      <source>Language</source>
+      <translation>Мова</translation>
+    </message>
+    <message>
+      <source>About</source>
+      <translation>Про програму</translation>
+    </message>
+    <message>
+      <source>Licence</source>
+      <translation>Ліцензія</translation>
+    </message>
+    <message>
+      <source>Build</source>
+      <translation>Сборка</translation>
+    </message>
+    <message>
+      <source>Contacts</source>
+      <translation>Контакти</translation>
+    </message>
+    <message>
+      <source>Preliminary registered players</source>
+      <translation>Попередньо зареєстровані гравці</translation>
+    </message>
+    <message>
+      <source>Finalize all</source>
+      <translation>Остаточно зареєструвати</translation>
+    </message>
+    <message>
+      <source>Delete all</source>
+      <translation>Видалити всіх</translation>
+    </message>
+    <message>
+      <source>Do you want to save changes?</source>
+      <translation>Зберегти зміни?</translation>
+    </message>
+    <message>
+      <source>Yes</source>
+      <translation>Так</translation>
+    </message>
+    <message>
+      <source>No</source>
+      <translation>Ні</translation>
+    </message>
+    <message>
+      <source>Recent files</source>
+      <translation>Останні файли</translation>
+    </message>
+    <message>
+      <source>Skipping the rounds</source>
+      <translation>Пропуск турів</translation>
+    </message>
+    <message>
+      <source>Coach</source>
+      <translation>Тренер</translation>
+    </message>
+    <message>
+      <source>Grade</source>
+      <translation>Розряд</translation>
+    </message>
+    <message>
+      <source>Name (eng.)</source>
+      <translation>Ім'я (англ.)</translation>
+    </message>
+    <message>
+      <source>Surname (eng.)</source>
+      <translation>Прізвище (англ.)</translation>
+    </message>
+    <message>
+      <source>Transliterate</source>
+      <translation>Транслітерувати</translation>
+    </message>
+    <message>
+      <source>Transliteration support</source>
+      <translation>Підтримка транслітерації</translation>
+    </message>
+    <message>
+      <source>It is impossible to save the tournament with current extention.</source>
+      <translation>Неможливо зберегти турнір з вказаним розширенням.</translation>
+    </message>
+    <message>
+      <source>Use manually managed Super bar</source>
+      <translation>Використовувати керовану вручну супергрупу</translation>
+    </message>
+    <message>
+      <source>Super bar member</source>
+      <translation>Член супергрупи</translation>
+    </message>
+    <message>
+      <source>Use local player database</source>
+      <translation>Використовувати локальну базу гравців</translation>
+    </message>
+    <message>
+      <source>Database source</source>
+      <translation>Джерело даних</translation>
+    </message>
+    <message>
+      <source>UFGO rating-list</source>
+      <translation>Рейтинг-лист УФГО</translation>
+    </message>
+    <message>
+      <source>RFG rating-list</source>
+      <translation>Рейтинг-лист РФГ</translation>
+    </message>
+    <message>
+      <source>Synchronize</source>
+      <translation>Синхронізувати</translation>
+    </message>
+    <message>
+      <source>from</source>
+      <translation>від</translation>
+    </message>
+    <message>
+      <source>not synchronized</source>
+      <translation>не синхронізований</translation>
+    </message>
+    <message>
+      <source>Next round</source>
+      <translation>Наступний тур</translation>
+    </message>
+    <message>
+      <source>Previous round</source>
+      <translation>Попередній тур</translation>
+    </message>
+    <message>
+      <source>Players were already matched</source>
+      <translation>Гравці вже зводилися</translation>
+    </message>
+    <message>
+      <source>Tournament system</source>
+      <translation>Турнірна система</translation>
+    </message>
+    <message>
+      <source>Round-robin</source>
+      <translation>Кругова</translation>
+    </message>
+    <message>
+      <source>Swiss</source>
+      <translation>Швейцарська</translation>
+    </message>
+    <message>
+      <source>McMahon</source>
+      <translation>Макмагона</translation>
+    </message>
+    <message>
+      <source>Scheveningen</source>
+      <translation>Схевенінгенська</translation>
+    </message>
+    <message>
+      <source>First move color</source>
+      <translation>Першими ходять</translation>
+    </message>
+    <message>
+      <source>for all rounds</source>
+      <translation>для всіх турів</translation>
+    </message>
+    <message>
+      <source>for current round</source>
+      <translation>для даного туру</translation>
+    </message>
+    <message>
+      <source>Generate random start numbers</source>
+      <translation>Згенерувати випадкові стартові номери</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Файл</translation>
+    </message>
+    <message>
+      <source>History</source>
+      <translation>Історія</translation>
+    </message>
+    <message>
+      <source>Rating₂</source>
+      <translation>Рейтинг₂</translation>
+    </message>
+    <message>
+      <source>Calculate new rating for the players to be imported?</source>
+      <translation>Розрахувати для гравців, що імпортуються, новий рейтинг?</translation>
+    </message>
+    <message>
+      <source>abnormal growth</source>
+      <translation>аномальний ріст</translation>
+    </message>
+    <message>
+      <source>No data</source>
+      <translation>Нема даних</translation>
+    </message>
+    <message>
+      <source>Column</source>
+      <translation>Колонка</translation>
+    </message>
+    <message>
+      <source>Rounds</source>
+      <translation>Тури</translation>
+    </message>
+    <message>
+      <source>Place based on criteria</source>
+      <translation>Місце в залежності від критериїв</translation>
+    </message>
+    <message>
+      <source>Player (or team) name</source>
+      <translation>Прізвище, ім'я гравця (або команда)</translation>
+    </message>
+    <message>
+      <source>Country name</source>
+      <translation>Назва країни</translation>
+    </message>
+    <message>
+      <source>City name</source>
+      <translation>Найменування міста</translation>
+    </message>        
+    <message>
+      <source>Club name</source>
+      <translation>Назва клубу</translation>
+    </message>
+    <message>
+      <source>Team name</source>
+      <translation>Назва команди</translation>
+    </message>
+    <message>
+      <source>Registered rating</source>
+      <translation>Зареєстрований рейтинг</translation>
+    </message>
+    <message>
+      <source>Oriental dan/kyu gradation</source>
+      <translation>Східна градація дан/кю</translation>
+    </message>
+    <message>
+      <source>Calculated rating</source>
+      <translation>Разрахований рейтинг</translation>
+    </message>
+    <message>
+      <source>MacMahon start scores</source>
+      <translation>Стартові очки Макмагона</translation>
+    </message>
+    <message>
+      <source>Pairing and game result</source>
+      <translation>Зведення пар та результати партій</translation>
+    </message>
+    <message>
+      <source>Coach name</source>
+      <translation>Ім'я тренера</translation>
+    </message>
+    <message>
+      <source>Grade by State sports classification</source>
+      <translation>Розряд за державною класифікацією</translation>
+    </message>
+    <message>
+      <source>Fields from "Criteria" tab</source>
+      <translation>Поля у вкладці "Критерії"</translation>
+    </message>
+    <message>
+      <source>Do not pair players</source>
+      <translation>Не зводити гравців</translation>
+    </message>
+    <message>
+      <source>Sum of Up/Down (+1/-1) pairing balance</source>
+      <translation>Сума підйомів та зпусків (+1/-1)</translation>
+    </message>
+    <message>
+      <source>Hide columns with empty data</source>
+      <translation>Приховувати колонки без даних</translation>
+    </message>
+    <message>
+      <source>The number is duplicated</source>
+      <translation>Цей номер вже є</translation>
+    </message>
+    <message>
+      <source>Display handicap in komi (in stones otherwise)</source>
+      <translation>Вказувати фору в комі (інакше - у кількості каменів)</translation>
+    </message>
+    <message>
+      <source>New version {0} from {1} is available!</source>
+      <translation>Доступна новая версія {0} від {1}!</translation>
+    </message>
+    <message>
+      <source>What's new:</source>
+      <translation>Зміни:</translation>
+    </message>
+    <message>
+      <source>Version {0} from {1} news:</source>
+      <translation>Зміни у версії {0} від {1}:</translation>
+    </message>
+    <message>
+      <source>Download</source>
+      <translation>Зкачати</translation>
+    </message>
+    <message>
+      <source>Take current round in account</source>
+      <translation>Включити поточний тур до розрахунків</translation>
+    </message>
+    <message>
+      <source>Send a report</source>
+      <translation>Відправити звіт</translation>
+    </message>
+    <message>
+      <source>Copy to Clipboard</source>
+      <translation>Зкопіювати в буфер обміну</translation>
+    </message>
+    <message>
+      <source>Unexpected error appeared!</source>
+      <translation>Виникла несподівана помилка!</translation>
+    </message>
+    <message>
+      <source>Show colors</source>
+      <translation>Показувати кольори</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Редагувати</translation>
+    </message>
+    <message>
+      <source>record</source>
+      <translation>запис</translation>
+    </message>
+    <message>
+      <source>records</source>
+      <translation>записа</translation>
+    </message>
+    <message>
+      <source>records </source>
+      <translation>записів</translation>
+    </message>
+    <message>
+      <source>player</source>
+      <translation>гравець</translation>
+    </message>
+    <message>
+      <source>players</source>
+      <translation>гравця</translation>
+    </message>
+    <message>
+      <source>players </source>
+      <translation>гравців</translation>
+    </message>
+    <message>
+      <source>The data will not be able to restore.</source>
+      <translation>Відновити дані буде неможливо.</translation>
+    </message>
+    <message>
+      <source>The application update is ready to be installed. Press "Restart the application" to finish or "Cancel" to postpone updating process.</source>
+      <translation>Поновлення програми готово до встановлення. Натисніть кнопку "Перезавантажити програму" для закінчення чи кнопку "Скасувати" для відстрочення процесу поновления.</translation>
+    </message>
+    <message>
+      <source>Restart the application</source>
+      <translation>Перезавантажити програму</translation>
+    </message>
+    <message>
+      <source>Calculation</source>
+      <translation>Розрахунки</translation>
+    </message>
+    <message>
+      <source>Accounting for skipped rounds</source>
+      <translation>Враховувати пропущені тури</translation>
+    </message>
+    <message>
+      <source>Add nothing</source>
+      <translation>Нічого не додавати</translation>
+    </message>
+    <message>
+      <source>Add 0.5 points</source>
+      <translation>Додавати 0,5 очок</translation>
+    </message>
+    <message>
+      <source>Alternate zero and one point</source>
+      <translation>Чергувати нуль і одне очко</translation>
+    </message>
+    <message>
+      <source>Customize calculation</source>
+      <translation>Корегувати розрахунки</translation>
+    </message>
+    <message>
+      <source>Add zero to own coefficients</source>
+      <translation>Нічого не додавати у власні коефіцієнти</translation>
+    </message>
+    <message>
+      <source>Add maximum to competitors coefficients</source>
+      <translation>Додавати максимум в коефіцієнти супеників</translation>
+    </message>
+    <message>
+      <source>Top group only</source>
+      <translation>Тільки для верхньої групи</translation>
+    </message>
+    <message>
+      <source>Assistant</source>
+      <translation>Асистент</translation>
+    </message>
+    <message>
+      <source>Enter awaited amount of players and planned quantity of rounds.</source>
+      <translation>Введіть очікувану кількість гравців і плановану кількість турів.</translation>
+    </message>
+    <message>
+      <source>Recommended system:</source>
+      <translation>Рекомендована система:</translation>
+    </message>
+    <message>
+      <source>Press OK or Apply to implement the recommendation to the tournament settings.</source>
+      <translation>Натисніть "OK" або "Застосувати", щоб реалізувати рекомендацію в налаштуваннях турніру.</translation>
+    </message>
+    <message>
+      <source>minimum</source>
+      <translation>мінімум</translation>
+    </message>
+    <message>
+      <source>optimum</source>
+      <translation>оптимум</translation>
+    </message>
+    <message>
+      <source>maximum</source>
+      <translation>максимум</translation>
+    </message>
+    <message>
+      <source>Resource {0} is unavailable: {1}</source>
+      <translation>Ресурс {0} недоступний: {1}</translation>
+    </message>
+  </context>
+
+  <context>
+    <name>Grade</name>
+    <message>
+      <source>Honored Master</source>
+      <translation>Заслужений майстер спорту</translation>
+    </message>
+    <message>
+      <source>International Master</source>
+      <translation>Майстер спорту міжнародного класу</translation>
+    </message>
+    <message>
+      <source>Master</source>
+      <translation>Майстер спорту</translation>
+    </message>
+    <message>
+      <source>Candidate to Master</source>
+      <translation>Кандидат у майстри спорту</translation>
+    </message>
+    <message>
+      <source>Grade 1</source>
+      <translation>1-й розряд</translation>
+    </message>
+    <message>
+      <source>Grade 2</source>
+      <translation>2-й розряд</translation>
+    </message>
+    <message>
+      <source>Grade 3</source>
+      <translation>3-й розряд</translation>
+    </message>
+    <message>
+      <source>Grade 1 junior</source>
+      <translation>1-й юнацький</translation>
+    </message>
+    <message>
+      <source>Grade 2 junior</source>
+      <translation>2-й юнацький</translation>
+    </message>
+    <message>
+      <source>Grade 3 junior</source>
+      <translation>3-й юнацький</translation>
+    </message>
+    <message>
+      <source>HM</source>
+      <translation>ЗМС</translation>
+    </message>
+    <message>
+      <source>IM</source>
+      <translation>МСМК</translation>
+    </message>
+    <message>
+      <source>M</source>
+      <translation>МС</translation>
+    </message>
+    <message>
+      <source>C</source>
+      <translation>КМС</translation>
+    </message>
+    <message>
+      <source>1</source>
+      <translation>1</translation>
+    </message>
+    <message>
+      <source>2</source>
+      <translation>2</translation>
+    </message>
+    <message>
+      <source>3</source>
+      <translation>3</translation>
+    </message>
+    <message>
+      <source>1 jnr</source>
+      <translation>2 юн.</translation>
+    </message>
+    <message>
+      <source>2 jnr</source>
+      <translation>2 юн.</translation>
+    </message>
+    <message>
+      <source>3 jnr</source>
+      <translation>3 юн.</translation>
+    </message>
+  </context>
+</TS>

@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Countries typeversion="1">
+  <Country typeversion="1">
+    <InternetCode>ac</InternetCode>
+    <Name>Ascension Island</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ad</InternetCode>
+    <Name>Andorra</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ae</InternetCode>
+    <Name>United Arab Emirates</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>af</InternetCode>
+    <Name>Afghanistan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ag</InternetCode>
+    <Name>Antigua and Barbuda</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ai</InternetCode>
+    <Name>Anguilla</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>al</InternetCode>
+    <Name>Albania</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>am</InternetCode>
+    <Name>Armenia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>an</InternetCode>
+    <Name>Netherlands Antilles</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ao</InternetCode>
+    <Name>Angola</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>aq</InternetCode>
+    <Name>Antarctica</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ar</InternetCode>
+    <Name>Argentina</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>as</InternetCode>
+    <Name>American Samoa</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>at</InternetCode>
+    <Name>Austria</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>au</InternetCode>
+    <Name>Australia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>aw</InternetCode>
+    <Name>Aruba</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ax</InternetCode>
+    <Name>Åland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>az</InternetCode>
+    <Name>Azerbaijan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ba</InternetCode>
+    <Name>Bosnia and Herzegovina</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bb</InternetCode>
+    <Name>Barbados</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bd</InternetCode>
+    <Name>Bangladesh</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>be</InternetCode>
+    <Name>Belgium</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bf</InternetCode>
+    <Name>Burkina Faso</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bg</InternetCode>
+    <Name>Bulgaria</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bh</InternetCode>
+    <Name>Bahrain</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bi</InternetCode>
+    <Name>Burundi</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bj</InternetCode>
+    <Name>Benin</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bm</InternetCode>
+    <Name>Bermuda</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bn</InternetCode>
+    <Name>Brunei Darussalam</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bo</InternetCode>
+    <Name>Bolivia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>br</InternetCode>
+    <Name>Brazil</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bs</InternetCode>
+    <Name>Bahamas</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bt</InternetCode>
+    <Name>Bhutan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bv</InternetCode>
+    <Name>Bouvet Island</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bw</InternetCode>
+    <Name>Botswana</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>by</InternetCode>
+    <Name>Belarus</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>bz</InternetCode>
+    <Name>Belize</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ca</InternetCode>
+    <Name>Canada</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cc</InternetCode>
+    <Name>Cocos (Keeling) Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cd</InternetCode>
+    <Name>Democratic Republic of the Congo</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cf</InternetCode>
+    <Name>Central African Republic</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cg</InternetCode>
+    <Name>Republic of the Congo</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ch</InternetCode>
+    <Name>Switzerland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ci</InternetCode>
+    <Name>Côte d'Ivoire</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ck</InternetCode>
+    <Name>Cook Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cl</InternetCode>
+    <Name>Chile</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cm</InternetCode>
+    <Name>Cameroon</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cn</InternetCode>
+    <Name>People's Republic of China</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>co</InternetCode>
+    <Name>Colombia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cr</InternetCode>
+    <Name>Costa Rica</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cs</InternetCode>
+    <Name>Czechoslovakia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cu</InternetCode>
+    <Name>Cuba</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cv</InternetCode>
+    <Name>Cape Verde</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cx</InternetCode>
+    <Name>Christmas Island</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cy</InternetCode>
+    <Name>Cyprus</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>cz</InternetCode>
+    <Name>Czech Republic</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>de</InternetCode>
+    <Name>Germany</Name>
+    <Club typeversion="1">
+      <Name>Aachen</Name>
+      <EGDName>AC</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Altenkirchen (Westerwald)</Name>
+      <EGDName>AK</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Aschaffenburg</Name>
+      <EGDName>AB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Augsburg</Name>
+      <EGDName>A</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bad Doberan</Name>
+      <EGDName>DBR</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bad Kreuznach</Name>
+      <EGDName>KH</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bad Segeberg</Name>
+      <EGDName>SE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bautzen</Name>
+      <EGDName>BZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bayreuth</Name>
+      <EGDName>BT</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bergheim/Rhein-Erft-Kreis</Name>
+      <EGDName>BM</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bergisch Gladbach/Rheinisch-Bergischer Kreis</Name>
+      <EGDName>GL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Berlin</Name>
+      <EGDName>B</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Böblingen</Name>
+      <EGDName>BB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bochum</Name>
+      <EGDName>BO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bonn</Name>
+      <EGDName>BN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Borken</Name>
+      <EGDName>BOR</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bottrop</Name>
+      <EGDName>Bot</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Braunschweig</Name>
+      <EGDName>BS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bremen/Bremerhaven</Name>
+      <EGDName>HB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Castrop-Rauxel</Name>
+      <EGDName>CAS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Chemnitz</Name>
+      <EGDName>C</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Clausthal-Zellerfeld</Name>
+      <EGDName>CLZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Coburg</Name>
+      <EGDName>CO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Cottbus</Name>
+      <EGDName>CB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Darmstadt</Name>
+      <EGDName>DA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Detmold</Name>
+      <EGDName>DT</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Diepholz</Name>
+      <EGDName>DH</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Dingolfing-Landau</Name>
+      <EGDName>DGF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Dippoldiswalde/Weißeritzkreis</Name>
+      <EGDName>DW</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Döbeln (Landkreis)</Name>
+      <EGDName>DL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Donau-Ries</Name>
+      <EGDName>DON</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Dortmund</Name>
+      <EGDName>DO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Dresden</Name>
+      <EGDName>DD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Duisburg</Name>
+      <EGDName>DU</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Düren</Name>
+      <EGDName>DN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Düsseldorf</Name>
+      <EGDName>D</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ebersberg</Name>
+      <EGDName>EBE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Eisenach</Name>
+      <EGDName>EA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Eisenhüttenstadt</Name>
+      <EGDName>EH</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Emden</Name>
+      <EGDName>EMD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Erding</Name>
+      <EGDName>ED</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Erlangen</Name>
+      <EGDName>ER</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Essen</Name>
+      <EGDName>E</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Euskirchen</Name>
+      <EGDName>EU</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Flensburg</Name>
+      <EGDName>FL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Forchheim</Name>
+      <EGDName>FO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Frankfurt</Name>
+      <EGDName>F</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Frankfurt (Oder)</Name>
+      <EGDName>FF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Freiburg/Breisgau-Hochschwarzwald</Name>
+      <EGDName>FR</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Freudenstadt</Name>
+      <EGDName>FDS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Friedberg/Wetteraukreis</Name>
+      <EGDName>FB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Friedrichshafen/Bodenseekreis</Name>
+      <EGDName>FN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Fulda</Name>
+      <EGDName>FD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Fürstenfeldbruck</Name>
+      <EGDName>FFB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gelsenkirchen</Name>
+      <EGDName>GE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gießen</Name>
+      <EGDName>GI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gifhorn</Name>
+      <EGDName>GF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Göppingen</Name>
+      <EGDName>GP</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Göttingen</Name>
+      <EGDName>GOE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Greifswald</Name>
+      <EGDName>HGW</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Greiz</Name>
+      <EGDName>GRZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gummersbach/Oberbergischer Kreis</Name>
+      <EGDName>GM</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gütersloh</Name>
+      <EGDName>GT</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Hagen (Westfalen)</Name>
+      <EGDName>HA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Hamburg</Name>
+      <EGDName>HH</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Hameln-Pyrmont</Name>
+      <EGDName>HM</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Hanau</Name>
+      <EGDName>HU</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Hannover</Name>
+      <EGDName>H</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Heidelberg/Rhein-Neckar-Kreis</Name>
+      <EGDName>HD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Heilbronn (Neckar)</Name>
+      <EGDName>HN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Helmstedt</Name>
+      <EGDName>HE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Herford</Name>
+      <EGDName>HF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Hildesheim</Name>
+      <EGDName>HI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Höxter</Name>
+      <EGDName>HX</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ilmenau</Name>
+      <EGDName>IL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Itzehoe</Name>
+      <EGDName>IZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Jena</Name>
+      <EGDName>J</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Kaiserslautern</Name>
+      <EGDName>KL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Kamenz</Name>
+      <EGDName>KM</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Karlsruhe</Name>
+      <EGDName>KA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Kassel</Name>
+      <EGDName>KS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Kaufbeuren</Name>
+      <EGDName>KF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Kiel</Name>
+      <EGDName>KI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Koblenz</Name>
+      <EGDName>KO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Köln</Name>
+      <EGDName>K</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Konstanz</Name>
+      <EGDName>KN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Korbach/Waldeck-Frankenberg</Name>
+      <EGDName>KB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Krefeld</Name>
+      <EGDName>KR</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Landau</Name>
+      <EGDName>LD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Landkreis Dahme-Spreewald</Name>
+      <EGDName>LDS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Landkreis Mansfeld-Südharz</Name>
+      <EGDName>MSH</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Landkreis Oder-Spree</Name>
+      <EGDName>LOS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Landshut</Name>
+      <EGDName>LA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Leer</Name>
+      <EGDName>LER</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Leipzig</Name>
+      <EGDName>L</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Leverkusen</Name>
+      <EGDName>LEV</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Lippe/Detmold</Name>
+      <EGDName>LIP</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Löbau</Name>
+      <EGDName>LOEB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Lübeck</Name>
+      <EGDName>HL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ludwigsburg</Name>
+      <EGDName>LB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ludwigshafen (Rhein)</Name>
+      <EGDName>LU</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Lüneburg</Name>
+      <EGDName>LG</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Magdeburg</Name>
+      <EGDName>MD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Mainz</Name>
+      <EGDName>MZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Mannheim</Name>
+      <EGDName>MA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Marburg (Lahn)</Name>
+      <EGDName>MR</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Meschede/Hochsauerlandkreis</Name>
+      <EGDName>HSK</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Mettmann</Name>
+      <EGDName>ME</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Mittweida</Name>
+      <EGDName>MW</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Mönchengladbach</Name>
+      <EGDName>MG</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>München</Name>
+      <EGDName>M</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Münster</Name>
+      <EGDName>MS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Neubrandenburg</Name>
+      <EGDName>NB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Neunkirchen (Saarland)</Name>
+      <EGDName>NK</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Nienburg</Name>
+      <EGDName>NI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Nürnberg</Name>
+      <EGDName>N</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Nürtingen</Name>
+      <EGDName>NT</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Oberhausen</Name>
+      <EGDName>OB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Offenbach</Name>
+      <EGDName>OF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Oldenburg</Name>
+      <EGDName>OL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Olpe</Name>
+      <EGDName>OE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Paderborn</Name>
+      <EGDName>PB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Passau</Name>
+      <EGDName>PA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Peine</Name>
+      <EGDName>PE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Pforzheim</Name>
+      <EGDName>PF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Pinneberg</Name>
+      <EGDName>PI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Potsdam</Name>
+      <EGDName>P</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Rathenow/Havelland</Name>
+      <EGDName>HVL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Recklinghausen</Name>
+      <EGDName>RE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Rendsburg-Eckernförde</Name>
+      <EGDName>RD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Reutlingen</Name>
+      <EGDName>RT</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Rosenheim</Name>
+      <EGDName>RO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Rostock</Name>
+      <EGDName>HRO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Roth (Rednitz)</Name>
+      <EGDName>RH</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Saalfeld</Name>
+      <EGDName>SLF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Saarbrücken</Name>
+      <EGDName>SB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Saarlouis</Name>
+      <EGDName>SLS</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Salzgitter</Name>
+      <EGDName>SZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schaumburg/Stadthagen</Name>
+      <EGDName>SHG</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schleiz</Name>
+      <EGDName>SCZ</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schleswig</Name>
+      <EGDName>SL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schwäbisch Gmünd</Name>
+      <EGDName>GD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schwedt (Oder)</Name>
+      <EGDName>SDT</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schweinfurt</Name>
+      <EGDName>SW</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Schwerin</Name>
+      <EGDName>SN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Siegburg</Name>
+      <EGDName>SU</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Siegen</Name>
+      <EGDName>SI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Solingen</Name>
+      <EGDName>SG</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Soltau-Fallingbostel</Name>
+      <EGDName>SFA</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Spree-Neiße</Name>
+      <EGDName>SPN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Stade</Name>
+      <EGDName>STD</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Steinfurt</Name>
+      <EGDName>ST</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Stralsund</Name>
+      <EGDName>HST</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Stuttgart</Name>
+      <EGDName>S</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Syke</Name>
+      <EGDName>SY</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Teltow-Fläming</Name>
+      <EGDName>TF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Torgau</Name>
+      <EGDName>TG</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Trier</Name>
+      <EGDName>TR</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Uelzen</Name>
+      <EGDName>UE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ulm</Name>
+      <EGDName>UL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Unna</Name>
+      <EGDName>UN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Wanne-Eickel</Name>
+      <EGDName>WAN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Weimar</Name>
+      <EGDName>WE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Wilhelmshaven</Name>
+      <EGDName>WHV</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Winsen (Luhe)</Name>
+      <EGDName>WL</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Witten (Ruhr)</Name>
+      <EGDName>WI</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Wolfenbüttel</Name>
+      <EGDName>WF</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Wolfsburg</Name>
+      <EGDName>WOB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Worms</Name>
+      <EGDName>WO</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Wuppertal</Name>
+      <EGDName>W</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Zittau</Name>
+      <EGDName>ZI</EGDName>
+    </Club>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>dj</InternetCode>
+    <Name>Djibouti</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>dk</InternetCode>
+    <Name>Denmark</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>dm</InternetCode>
+    <Name>Dominica</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>do</InternetCode>
+    <Name>Dominican Republic</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>dz</InternetCode>
+    <Name>Algeria</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ec</InternetCode>
+    <Name>Ecuador</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ee</InternetCode>
+    <Name>Estonia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>eg</InternetCode>
+    <Name>Egypt</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>er</InternetCode>
+    <Name>Eritrea</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>es</InternetCode>
+    <Name>Spain</Name>
+    <Club typeversion="1">
+      <Name>Agoca</Name>
+      <EGDName>Agoc</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Alicante</Name>
+      <EGDName>Ala</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Alicante</Name>
+      <EGDName>Ali</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>AmaGo</Name>
+      <EGDName>AMaG</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Barcelona</Name>
+      <EGDName>Bar</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Barcelona</Name>
+      <EGDName>Barc</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bilbao</Name>
+      <EGDName>Bil</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bilbao</Name>
+      <EGDName>Bilb</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Cadiz</Name>
+      <EGDName>Cad</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Cadiz</Name>
+      <EGDName>Cadi</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Canarias</Name>
+      <EGDName>CAN</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Cordoba</Name>
+      <EGDName>Cor</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Cordoba</Name>
+      <EGDName>Cord</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Granada</Name>
+      <EGDName>Gra</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Granada</Name>
+      <EGDName>Gran</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Huelva</Name>
+      <EGDName>Hue</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Huelva</Name>
+      <EGDName>Huel</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Madrid</Name>
+      <EGDName>Mad</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Madrid</Name>
+      <EGDName>Madr</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Malaga</Name>
+      <EGDName>Mal</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Malaga</Name>
+      <EGDName>Mala</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Murcia</Name>
+      <EGDName>Mur</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>NamBan</Name>
+      <EGDName>Nam</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>NamBan</Name>
+      <EGDName>NamB</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Pedra</Name>
+      <EGDName>Pedr</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Sevilla</Name>
+      <EGDName>Sev</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Sevilla</Name>
+      <EGDName>Sevi</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Tengen</Name>
+      <EGDName>Ten</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Tengen</Name>
+      <EGDName>Teng</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>UbicuoKiin</Name>
+      <EGDName>Ubic</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Zaragoza</Name>
+      <EGDName>Zar</EGDName>
+    </Club>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>et</InternetCode>
+    <Name>Ethiopia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>eu</InternetCode>
+    <Name>European Union</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>fi</InternetCode>
+    <Name>Finland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>fj</InternetCode>
+    <Name>Fiji</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>fk</InternetCode>
+    <Name>Falkland Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>fm</InternetCode>
+    <Name>Federated States of Micronesia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>fo</InternetCode>
+    <Name>Faroe Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>fr</InternetCode>
+    <Name>France</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ga</InternetCode>
+    <Name>Gabon</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gb</InternetCode>
+    <Name>United Kingdom</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gd</InternetCode>
+    <Name>Grenada</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ge</InternetCode>
+    <Name>Georgia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gf</InternetCode>
+    <Name>French Guiana</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gg</InternetCode>
+    <Name>Guernsey</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gh</InternetCode>
+    <Name>Ghana</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gi</InternetCode>
+    <Name>Gibraltar</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gl</InternetCode>
+    <Name>Greenland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gm</InternetCode>
+    <Name>The Gambia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gn</InternetCode>
+    <Name>Guinea</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gp</InternetCode>
+    <Name>Guadeloupe</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gq</InternetCode>
+    <Name>Equatorial Guinea</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gr</InternetCode>
+    <Name>Greece</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gs</InternetCode>
+    <Name>South Georgia and the South Sandwich Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gt</InternetCode>
+    <Name>Guatemala</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gu</InternetCode>
+    <Name>Guam</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gw</InternetCode>
+    <Name>Guinea-Bissau</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>gy</InternetCode>
+    <Name>Guyana</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>hk</InternetCode>
+    <Name>Hong Kong</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>hm</InternetCode>
+    <Name>Heard Island and McDonald Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>hn</InternetCode>
+    <Name>Honduras</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>hr</InternetCode>
+    <Name>Croatia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ht</InternetCode>
+    <Name>Haiti</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>hu</InternetCode>
+    <Name>Hungary</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>id</InternetCode>
+    <Name>Indonesia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ie</InternetCode>
+    <Name>Ireland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>il</InternetCode>
+    <Name>Israel</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>im</InternetCode>
+    <Name>Isle of Man</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>in</InternetCode>
+    <Name>India</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>io</InternetCode>
+    <Name>British Indian Ocean Territory</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>iq</InternetCode>
+    <Name>Iraq</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ir</InternetCode>
+    <Name>Iran</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>is</InternetCode>
+    <Name>Iceland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>it</InternetCode>
+    <Name>Italy</Name>
+    <Club typeversion="1">
+      <Name>Alghero</Name>
+      <EGDName>Algh</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bari</Name>
+      <EGDName>Bari</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Belluno</Name>
+      <EGDName>Bell</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Biella</Name>
+      <EGDName>Biel</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Bologna</Name>
+      <EGDName>Bolo</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Brescia</Name>
+      <EGDName>Bres</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Caserta</Name>
+      <EGDName>Case</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Como</Name>
+      <EGDName>Como</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Faenza</Name>
+      <EGDName>Faen</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ferrara</Name>
+      <EGDName>Ferr</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Firenze</Name>
+      <EGDName>Fire</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Forlì</Name>
+      <EGDName>Forl</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Frascati</Name>
+      <EGDName>Fras</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gaeta</Name>
+      <EGDName>Gaet</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Genova</Name>
+      <EGDName>Geno</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Gorizia</Name>
+      <EGDName>Gori</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Grosseto</Name>
+      <EGDName>Gros</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Imola</Name>
+      <EGDName>Imol</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Imperia</Name>
+      <EGDName>Impe</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>La Spezia</Name>
+      <EGDName>LaSp</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Livorno</Name>
+      <EGDName>Livo</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Lodi</Name>
+      <EGDName>Lodi</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Lucca</Name>
+      <EGDName>Lucc</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Milano</Name>
+      <EGDName>Mila</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Modena</Name>
+      <EGDName>Mode</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Napoli</Name>
+      <EGDName>Napo</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Novara</Name>
+      <EGDName>Nova</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Padova</Name>
+      <EGDName>Pado</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Palermo</Name>
+      <EGDName>Pale</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Parma</Name>
+      <EGDName>Parm</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Perugia</Name>
+      <EGDName>Peru</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Pescara</Name>
+      <EGDName>Pesc</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Piacenza</Name>
+      <EGDName>Piac</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Pisa</Name>
+      <EGDName>Pisa</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Pordenone</Name>
+      <EGDName>Pord</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Prato</Name>
+      <EGDName>Prat</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Ravenna</Name>
+      <EGDName>Rave</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Reggio Emilia</Name>
+      <EGDName>RegE</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Rimini</Name>
+      <EGDName>Rimi</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Roma</Name>
+      <EGDName>Roma</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>San Marino</Name>
+      <EGDName>S.Mi</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Sassari</Name>
+      <EGDName>Sass</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Savona</Name>
+      <EGDName>Savo</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Siena</Name>
+      <EGDName>Sien</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Teramo</Name>
+      <EGDName>Tera</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Thiene</Name>
+      <EGDName>Thie</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Torino</Name>
+      <EGDName>Tori</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Tradate</Name>
+      <EGDName>Trad</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Trento</Name>
+      <EGDName>Tren</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Treviso</Name>
+      <EGDName>Trev</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Trieste</Name>
+      <EGDName>Trie</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Tuenno</Name>
+      <EGDName>Tuen</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Udine</Name>
+      <EGDName>Udin</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Urbino</Name>
+      <EGDName>Urbi</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Varese</Name>
+      <EGDName>Vare</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Venezia</Name>
+      <EGDName>Vene</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Verona</Name>
+      <EGDName>vero</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Vicenza</Name>
+      <EGDName>Vice</EGDName>
+    </Club>
+    <Club typeversion="1">
+      <Name>Viterbo</Name>
+      <EGDName>Vite</EGDName>
+    </Club>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>je</InternetCode>
+    <Name>Jersey</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>jm</InternetCode>
+    <Name>Jamaica</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>jo</InternetCode>
+    <Name>Jordan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>jp</InternetCode>
+    <Name>Japan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ke</InternetCode>
+    <Name>Kenya</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kg</InternetCode>
+    <Name>Kyrgyzstan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kh</InternetCode>
+    <Name>Cambodia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ki</InternetCode>
+    <Name>Kiribati</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>km</InternetCode>
+    <Name>Comoros</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kn</InternetCode>
+    <Name>Saint Kitts and Nevis</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kp</InternetCode>
+    <Name>Democratic People's Republic of Korea</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kr</InternetCode>
+    <Name>Republic of Korea</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kw</InternetCode>
+    <Name>Kuwait</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ky</InternetCode>
+    <Name>Cayman Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>kz</InternetCode>
+    <Name>Kazakhstan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>la</InternetCode>
+    <Name>Laos</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lb</InternetCode>
+    <Name>Lebanon</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lc</InternetCode>
+    <Name>Saint Lucia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>li</InternetCode>
+    <Name>Liechtenstein</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lk</InternetCode>
+    <Name>Sri Lanka</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lr</InternetCode>
+    <Name>Liberia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ls</InternetCode>
+    <Name>Lesotho</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lt</InternetCode>
+    <Name>Lithuania</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lu</InternetCode>
+    <Name>Luxembourg</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>lv</InternetCode>
+    <Name>Latvia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ly</InternetCode>
+    <Name>Libya</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ma</InternetCode>
+    <Name>Morocco</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mc</InternetCode>
+    <Name>Monaco</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>md</InternetCode>
+    <Name>Moldova</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>me</InternetCode>
+    <Name>Montenegro</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mg</InternetCode>
+    <Name>Madagascar</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mh</InternetCode>
+    <Name>Marshall Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mk</InternetCode>
+    <Name>Republic of Macedonia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ml</InternetCode>
+    <Name>Mali</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mm</InternetCode>
+    <Name>Myanmar</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mn</InternetCode>
+    <Name>Mongolia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mo</InternetCode>
+    <Name>Macau</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mp</InternetCode>
+    <Name>Northern Mariana Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mq</InternetCode>
+    <Name>Martinique</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mr</InternetCode>
+    <Name>Mauritania</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ms</InternetCode>
+    <Name>Montserrat</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mt</InternetCode>
+    <Name>Malta</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mu</InternetCode>
+    <Name>Mauritius</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mv</InternetCode>
+    <Name>Maldives</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mw</InternetCode>
+    <Name>Malawi</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mx</InternetCode>
+    <Name>Mexico</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>my</InternetCode>
+    <Name>Malaysia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>mz</InternetCode>
+    <Name>Mozambique</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>na</InternetCode>
+    <Name>Namibia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>nc</InternetCode>
+    <Name>New Caledonia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ne</InternetCode>
+    <Name>Niger</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>nf</InternetCode>
+    <Name>Norfolk Island</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ng</InternetCode>
+    <Name>Nigeria</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ni</InternetCode>
+    <Name>Nicaragua</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>nl</InternetCode>
+    <Name>Netherlands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>no</InternetCode>
+    <Name>Norway</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>np</InternetCode>
+    <Name>Nepal</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>nr</InternetCode>
+    <Name>Nauru</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>nu</InternetCode>
+    <Name>Niue</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>nz</InternetCode>
+    <Name>New Zealand</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>om</InternetCode>
+    <Name>Oman</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pa</InternetCode>
+    <Name>Panama</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pe</InternetCode>
+    <Name>Peru</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pf</InternetCode>
+    <Name>French Polynesia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pg</InternetCode>
+    <Name>Papua New Guinea</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ph</InternetCode>
+    <Name>Philippines</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pk</InternetCode>
+    <Name>Pakistan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pl</InternetCode>
+    <Name>Poland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pm</InternetCode>
+    <Name>Saint-Pierre and Miquelon</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pn</InternetCode>
+    <Name>Pitcairn Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pr</InternetCode>
+    <Name>Puerto Rico</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ps</InternetCode>
+    <Name>Palestinian territories</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pt</InternetCode>
+    <Name>Portugal</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>pw</InternetCode>
+    <Name>Palau</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>py</InternetCode>
+    <Name>Paraguay</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>qa</InternetCode>
+    <Name>Qatar</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>re</InternetCode>
+    <Name>Réunion</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ro</InternetCode>
+    <Name>Romania</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>rs</InternetCode>
+    <Name>Serbia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ru</InternetCode>
+    <Name>Russia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>rw</InternetCode>
+    <Name>Rwanda</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sa</InternetCode>
+    <Name>Saudi Arabia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sb</InternetCode>
+    <Name>Solomon Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sc</InternetCode>
+    <Name>Seychelles</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sd</InternetCode>
+    <Name>Sudan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>se</InternetCode>
+    <Name>Sweden</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sg</InternetCode>
+    <Name>Singapore</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sh</InternetCode>
+    <Name>Saint Helena</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>si</InternetCode>
+    <Name>Slovenia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sj</InternetCode>
+    <Name>Svalbard and Jan Mayen Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sk</InternetCode>
+    <Name>Slovakia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sl</InternetCode>
+    <Name>Sierra Leone</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sm</InternetCode>
+    <Name>San Marino</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sn</InternetCode>
+    <Name>Senegal</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>so</InternetCode>
+    <Name>Somalia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sr</InternetCode>
+    <Name>Suriname</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>st</InternetCode>
+    <Name>São Tomé and Príncipe</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>su</InternetCode>
+    <Name>Soviet Union</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sv</InternetCode>
+    <Name>El Salvador</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sy</InternetCode>
+    <Name>Syria</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>sz</InternetCode>
+    <Name>Swaziland</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tc</InternetCode>
+    <Name>Turks and Caicos Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>td</InternetCode>
+    <Name>Chad</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tf</InternetCode>
+    <Name>French Southern and Antarctic Lands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tg</InternetCode>
+    <Name>Togo</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>th</InternetCode>
+    <Name>Thailand</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tj</InternetCode>
+    <Name>Tajikistan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tk</InternetCode>
+    <Name>Tokelau</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tl</InternetCode>
+    <Name>East Timor</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tm</InternetCode>
+    <Name>Turkmenistan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tn</InternetCode>
+    <Name>Tunisia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>to</InternetCode>
+    <Name>Tonga</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tp</InternetCode>
+    <Name>East Timor</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tr</InternetCode>
+    <Name>Turkey</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tt</InternetCode>
+    <Name>Trinidad and Tobago</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tv</InternetCode>
+    <Name>Tuvalu</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tw</InternetCode>
+    <Name>Republic of China (Taiwan)</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>tz</InternetCode>
+    <Name>Tanzania</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ua</InternetCode>
+    <Name>Ukraine</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ug</InternetCode>
+    <Name>Uganda</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>uk</InternetCode>
+    <Name>United Kingdom</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>us</InternetCode>
+    <Name>United States of America</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>uy</InternetCode>
+    <Name>Uruguay</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>uz</InternetCode>
+    <Name>Uzbekistan</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>va</InternetCode>
+    <Name>Vatican City</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>vc</InternetCode>
+    <Name>Saint Vincent and the Grenadines</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ve</InternetCode>
+    <Name>Venezuela</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>vg</InternetCode>
+    <Name>British Virgin Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>vi</InternetCode>
+    <Name>US Virgin Islands</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>vn</InternetCode>
+    <Name>Vietnam</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>vu</InternetCode>
+    <Name>Vanuatu</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>wf</InternetCode>
+    <Name>Wallis and Futuna</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ws</InternetCode>
+    <Name>Samoa</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>ye</InternetCode>
+    <Name>Yemen</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>yt</InternetCode>
+    <Name>Mayotte</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>za</InternetCode>
+    <Name>South Africa</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>zm</InternetCode>
+    <Name>Zambia</Name>
+  </Country>
+  <Country typeversion="1">
+    <InternetCode>zw</InternetCode>
+    <Name>Zimbabwe</Name>
+  </Country>
+</Countries>

@@ -1,0 +1,183 @@
+﻿<Window x:Class="AutoKorsak.PairWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pair" Height="503" Width="545" Name="pairWindow" Initialized="player_Initialized" Closing="player_Closing">
+
+    <Grid Name="grdMain" Background="{x:Static SystemColors.ControlBrush}">
+        <DockPanel>
+
+            <Border Name="pnlMainProps" Margin="10,10,10,46" BorderBrush="Silver" BorderThickness="1">
+                <Border Margin="10">
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100*"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <DockPanel Grid.Row="0">
+                            <Border Name="pnlInnerBody" BorderBrush="Silver" BorderThickness="1" Margin="0,0,0,0"
+                        Background="{x:Static SystemColors.ControlBrush}">
+                                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                                    <StackPanel Margin="10">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="20*" />
+                                                <ColumnDefinition Width="80*" />
+                                            </Grid.ColumnDefinitions>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                                <RowDefinition />
+                                            </Grid.RowDefinitions>
+
+                                            <TextBlock Text="{Binding Capt.Board}" Grid.Column="0" Grid.Row="0" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                            <WrapPanel Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,2">
+                                                <TextBox Text="{Binding BoardNumber}" IsEnabled="{Binding CanEditBoard}" Width="100" Margin="0,0,10,0"/>
+                                                <CheckBox IsChecked="{Binding BoardNumberFixed}" IsEnabled="{Binding ForcedPairing}" Margin="0,2">
+                                                    <TextBlock Text="{Binding Capt.BoardNumberIsFixed}" TextWrapping="Wrap"/>
+                                                </CheckBox>
+                                            </WrapPanel>
+
+                                            <Grid Grid.Column="0" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="100*" />
+                                                    <ColumnDefinition Width="16" MinWidth="16" />
+                                                </Grid.ColumnDefinitions>
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition />
+                                                </Grid.RowDefinitions>
+                                                <TextBlock Grid.Column="0" Grid.Row="0" Name="txtFirstPlayer" Text="{Binding Capt.Black}" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                                <Image Name="imgFirstWon" Grid.Column="1" Grid.Row="0" Source="/AutoKorsak;component/Images/award-star-gold.png" Visibility="Hidden"/>
+                                            </Grid>
+                                            <ComboBox IsEditable="False" IsEnabled="{Binding ForcedPairing}" Name="cmbFirstPlayer"  VerticalAlignment="Center"
+                                                Grid.Column="1" Grid.Row="1" 
+                                                ItemsSource="{Binding}" 
+                                                DisplayMemberPath="NameExt" 
+                                                SelectedValuePath="Id" SelectionChanged="cmbFirstPlayer_SelectionChanged">
+                                            </ComboBox>
+
+                                            <Grid Grid.Column="0" Grid.Row="2" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="100*" />
+                                                    <ColumnDefinition Width="16" MinWidth="16" />
+                                                </Grid.ColumnDefinitions>
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition />
+                                                </Grid.RowDefinitions>
+                                                <TextBlock Grid.Column="0" Grid.Row="0" Name="txtSecondPlayer" Text="{Binding Capt.White}" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                                <Image Name="imgSecondWon" Grid.Column="1" Grid.Row="0" Source="/AutoKorsak;component/Images/award-star-gold.png" Visibility="Hidden"/>
+                                            </Grid>
+                                            <ComboBox IsEditable="False"  IsEnabled="{Binding ForcedPairing}" Name="cmbSecondPlayer" VerticalAlignment="Center"
+                                                      Grid.Column="1" Grid.Row="2" 
+                                                ItemsSource="{Binding}" 
+                                                DisplayMemberPath="NameExt" 
+                                                SelectedValuePath="Id" SelectionChanged="cmbSecondPlayer_SelectionChanged">
+                                            </ComboBox>
+                                            <WrapPanel Grid.Column="1" Grid.Row="3" HorizontalAlignment="Right" Margin="0,0,0,2">
+                                                <Button Name="btnSwapPlayers" MinWidth="60" Content="{Binding Capt.SwapPlayers}" IsEnabled="{Binding ForcedPairing}" Click="btnSwapPlayers_Click"  Margin="0,2,10,2" Padding="10,0" />
+                                                <Button Name="btnDeletePair" MinWidth="60" Content="{Binding Capt.Delete}" IsEnabled="{Binding CanDelete}" Click="btnDeletePair_Click"  Margin="0,2,10,2" Padding="10,0" />
+                                            </WrapPanel>
+
+                                            <WrapPanel Name="pnlAlreadyPlayed" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,2">
+                                                <TextBlock Text="{Binding Capt.AlreadyPlayed}" Foreground="Red" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                            </WrapPanel>
+
+                                            <TextBlock Text="{Binding Capt.Handicap}" Grid.Column="0" Grid.Row="5" TextWrapping="Wrap" Margin="0,4" />
+                                            <WrapPanel Grid.Column="1" Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,2">
+                                                <TextBox Name="txtHandicap" Text="{Binding Handicap}" IsEnabled="{Binding ForcedPairing}" Width="100" Margin="0,0,10,0" TextChanged="TextBox_TextChanged" />
+                                                <TextBlock Name="lblHandicap" Text="{Binding Capt.Stones}" Margin="0,4" />
+                                            </WrapPanel>
+
+                                            <TextBlock Text="{Binding Capt.Komi}" Grid.Column="0" Grid.Row="6" TextWrapping="Wrap" Margin="0,4" />
+                                            <WrapPanel Grid.Column="1" Grid.Row="6" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,2">
+                                                <TextBox Name="txtKomi" Text="{Binding AdditionalKomi}" IsEnabled="{Binding ForcedPairing}" Width="100" Margin="0,0,10,0"  TextChanged="txtKomi_TextChanged" />
+                                                <TextBlock Name="lblKomi" Text="{Binding Capt.Points567}" Margin="0,4" />
+                                            </WrapPanel>
+
+                                            <Separator Grid.ColumnSpan="2" Grid.Row="7" Margin="0,10" />
+
+                                            <TextBlock Text="{Binding Capt.GameResult}" Grid.Column="0" Grid.Row="8" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                            <WrapPanel Grid.Column="1" Grid.Row="8" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,2">
+                                                <ComboBox IsEditable="False" Name="cmbGameResult" Width="100" SelectedItem="{Binding Result}" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True" Margin="0,0,10,0" SelectionChanged="cmbGameResult_SelectionChanged">
+                                                </ComboBox>
+                                                <CheckBox IsChecked="{Binding AllowJigo}" Margin="0,2,10,0">
+                                                    <TextBlock Text="{Binding Capt.AllowJigo}" TextWrapping="Wrap"/>
+                                                </CheckBox>
+                                                <CheckBox IsChecked="{Binding ResultByReferee}" Margin="0,2,10,0">
+                                                    <TextBlock Text="{Binding Capt.ResultByRefereeDecision}" TextWrapping="Wrap"/>
+                                                </CheckBox>
+                                            </WrapPanel>
+
+                                            <Separator Grid.ColumnSpan="2" Grid.Row="9" Margin="0,10" />
+
+                                            <TextBlock Text="{Binding Capt.ResultPoints}" Grid.Column="0" Grid.Row="10" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                            <WrapPanel Grid.Column="1" Grid.Row="10" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,2">
+                                                <TextBox Text="{Binding ResultPoints}" Width="100" Margin="0,0,10,0"/>
+                                                <TextBlock Text="{Binding Capt.PointsForWinner}" TextWrapping="Wrap"/>
+                                            </WrapPanel>
+
+                                            <Separator Grid.ColumnSpan="2" Grid.Row="11" Margin="0,10" />
+
+                                            <TextBlock Text="{Binding Capt.Comments}" Grid.Column="0" Grid.Row="12" TextWrapping="Wrap"/>
+                                            <TextBox Text="{Binding Comment}"  Grid.Column="1" Grid.Row="12" TextWrapping="Wrap" AcceptsReturn="True" Height="Auto" />
+                                        </Grid>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </Border>
+                        </DockPanel>
+                        <DockPanel VerticalAlignment="Bottom" Grid.Row="1">
+                            <Border Name="pnlInnerButtons" BorderThickness="0" Margin="0" >
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="10,2,10,2" HorizontalAlignment="Left">
+                                    <CheckBox IsChecked="{Binding ForcedPairing}" Margin="0,2">
+                                        <TextBlock Text="{Binding Capt.ForcePairing}" TextWrapping="Wrap"/>
+                                    </CheckBox>
+                                </StackPanel>
+                            </Border>
+                        </DockPanel>
+                    </Grid>
+
+                </Border>
+
+            </Border>
+
+        </DockPanel>
+        <DockPanel VerticalAlignment="Bottom">
+            <Border Name="pnlButtons" BorderThickness="1" Margin="10,10,10,10" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100"/>
+                        <ColumnDefinition Width="100*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="0,2" HorizontalAlignment="Right" Grid.Column="1">
+                        <Button Content="{Binding Capt.Ok}" MinWidth="60" Command="{Binding GiveItemCommand}" Margin="0,2,10,2"  Click="btnOk_Click" IsDefault="False" Padding="10,0" />
+                        <Button Content="{Binding Capt.Cancel}" MinWidth="60" Command="{Binding GetItemCommand}" Margin="0,2,10,2" Click="btnCancel_Click" IsCancel="True" Padding="10,0" />
+                        <Button Name="btnApply" Content="{Binding Capt.Apply}" MinWidth="60" Command="{Binding GetItemCommand}" Margin="0,2,10,2" Click="btnApply_Click" IsCancel="False" Padding="10,0" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="0,2" HorizontalAlignment="Right" Grid.Column="0">
+                        <Button Name="btnPrev" Content="←" Command="{Binding GiveItemCommand}" Margin="0,2,10,2"  Click="btnPrev_Click" IsDefault="False" IsEnabled="{Binding PairCanPrev}"  Padding="10,0" />
+                        <Button Name="btnNext" Content="→" Command="{Binding GetItemCommand}" Margin="0,2,10,2" Click="btnNext_Click" IsCancel="False" IsEnabled="{Binding PairCanNext}" Padding="10,0" />
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </DockPanel>
+
+    </Grid>
+</Window>

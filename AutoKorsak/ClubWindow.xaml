@@ -1,0 +1,40 @@
+﻿<Window x:Class="AutoKorsak.ClubWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Club" Height="300" Width="300" Name="clubWindow" Initialized="club_Initialized" Closing="club_Closing">
+
+    <Grid Name="grdMain">
+        <DockPanel>
+            <Border Margin="10,10,10,20">
+            <Border Name="pnlInnerBody"  BorderThickness="1" Margin="0,0,0,27">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="10">
+                        <TextBlock Text="{Binding Capt.Name}" TextWrapping="Wrap"/>
+                        <TextBox Text="{Binding Name}" />
+
+                            <WrapPanel Name ="pnlTransliterate" HorizontalAlignment="Right" Margin="0,0,0,2">
+                                <Button Name="btnTransliterate" Content="{Binding Capt.Transliterate}" MinWidth="60" Click="btnTransliterate_Click" Margin="0,2,10,2" Padding="10,0" />
+                            </WrapPanel>
+                            <TextBlock Name="lblNameEng" Text="{Binding Capt.InternationalName}" TextWrapping="Wrap"/>
+                            <TextBox Name="txtNameEng" Text="{Binding NameEn}" />
+                            
+                        <TextBlock Text="{Binding Capt.EgdName}" TextWrapping="Wrap"/>
+                        <TextBox Text="{Binding EGDName}" MaxLength="4" />
+                    </StackPanel>
+                </ScrollViewer>
+            </Border>
+            </Border>
+
+        </DockPanel>
+        <DockPanel VerticalAlignment="Bottom">
+            <Border Name="pnlButtons" BorderThickness="1" Margin="10,10,10,10">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="0,2" HorizontalAlignment="Right">
+                    <Button Content="{Binding Capt.Ok}" MinWidth="60" Command="{Binding GiveItemCommand}" Margin="0,2,10,2"  Click="btnOk_Click" IsDefault="False" Padding="10,0" />
+                    <Button Content="{Binding Capt.Delete}" MinWidth="60" Command="{Binding GiveItemCommand}" Margin="0,2,10,2"  Click="btnDelete_Click" IsDefault="False" Padding="10,0" />
+                    <Button Content="{Binding Capt.Cancel}" MinWidth="60" Command="{Binding GetItemCommand}" Margin="0,2,10,2" Click="btnCancel_Click" IsCancel="True" Padding="10,0" />
+                </StackPanel>
+            </Border>
+        </DockPanel>
+
+    </Grid>
+</Window>
