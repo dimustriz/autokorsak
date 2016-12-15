@@ -90,15 +90,16 @@ namespace AutoKorsak
             var key = _regBc.OpenKey(target.Name);
             if (key != null)
             {
-                var state = System.Windows.WindowState.Normal;
-                string s = key.GetValue("WindowState").ToString();
-                if (s == System.Windows.WindowState.Minimized.ToString())
-                    state = System.Windows.WindowState.Minimized;
-                else
-                    if (s == System.Windows.WindowState.Maximized.ToString())
-                        state = System.Windows.WindowState.Maximized;
+                var state = WindowState.Normal;
+                var s = key.GetValue("WindowState")?.ToString();
 
-                if (state != System.Windows.WindowState.Minimized)
+                if (s == WindowState.Minimized.ToString())
+                    state = WindowState.Minimized;
+                else
+                    if (s == WindowState.Maximized.ToString())
+                        state = WindowState.Maximized;
+
+                if (state != WindowState.Minimized)
                     target.WindowState = state;
 
                 var rect = key.GetValue("Bounds");
@@ -110,12 +111,23 @@ namespace AutoKorsak
                     try
                     {
                         string[] arr = s.Split(',');
-                        int l = int.Parse(arr[0]);
-                        int t = int.Parse(arr[1]);
-                        int w = int.Parse(arr[2]);
-                        int h = int.Parse(arr[3]);
-                        double scrW = System.Windows.SystemParameters.PrimaryScreenWidth;
-                        double scrH = System.Windows.SystemParameters.PrimaryScreenHeight;
+                        var l = int.Parse(arr[0]);
+                        var t = int.Parse(arr[1]);
+                        var w = int.Parse(arr[2]);
+                        var h = int.Parse(arr[3]);
+                        var scrW = SystemParameters.PrimaryScreenWidth;
+                        var scrH = SystemParameters.PrimaryScreenHeight;
+
+                        if (target.SizeToContent == SizeToContent.Manual)
+                        {
+                            if (w > 200)
+                                target.Width = w;
+                            if (h > 200)
+                                target.Height = h;
+                        }
+
+                        w = (int)target.Width;
+                        h = (int)target.Height;
 
                         if (!sizeOnly)
                         {
@@ -127,13 +139,7 @@ namespace AutoKorsak
                                 l = ((int)scrW - w) / 2;
                             target.Left = l;
                         }
-                        if (target.SizeToContent == SizeToContent.Manual)
-                        {
-                            if (w > 200)
-                                target.Width = w;
-                            if (h > 200)
-                                target.Height = h;
-                        }
+
                     } catch
                     {}
                 }

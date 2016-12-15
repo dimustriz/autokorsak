@@ -717,6 +717,7 @@ namespace Tourtoss.BE
         public string Copy { get { return this.tr("Copy to Clipboard"); } }
         public string RestartMessage { get { return this.tr("The application update is ready to be installed. Press \"Restart the application\" to finish or \"Cancel\" to postpone updating process."); } }
         public string Restart { get { return this.tr("Restart the application"); } }
+        public string Download { get { return this.tr("Download"); } }
 
         public string ContactsEmail { get { return "mailto:dmitry@korolev.kiev.ua"; } }
         public string ContactsUrl { get { return "http://kfgo.org.ua/autokorsak/"; } }
@@ -744,7 +745,7 @@ namespace Tourtoss.BE
         {
             get
             {
-                string result = "The software provides with pairing algorithm based on Vladimir Korsak grouping method. It is a variation of McMahon pairing system. Main idea is in separating one McMahon group to higher and lower parts and than pairing the first players from these parts while the group has more than one player. (Nevertheless the last round is paired by \"'the first againsg the last\" schema.) Unpaired player should be paired with middle player from next McMahon group. ";
+                string result = "The software provides with pairing algorithm based on Vladimir Korsak grouping method. It is a variation of McMahon pairing system. Main idea is in separating one McMahon group to higher and lower parts and than pairing the first players from these parts while the group has more than one player. (Nevertheless the last round is paired by \"the first againsg the last\" schema.) Unpaired player should be paired with middle player from next McMahon group. ";
                 switch (Translator.Language)
                 {
                     case "ru": result = "Программное обеспечение осуществляет алгоритм жеребьёвки, основанный на методе группировок Владимира Корсака. Данный метод является вариацией системы жеребьёвки Макмагона. Главная идея состоит в разделении группы Макмагона на верхнюю и нижнюю части и последующего сведения первых игроков из этих частей до тех пор, пока группа имеет более одного игрока. (Однако в последнем туре применяется схема \"первый с последним\".) Оставшийся без пары игрок должен быть сведён со средним игроком из следующей группы Макмагона."; break;

@@ -9,7 +9,6 @@ using System.Threading;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Interop;
 using System.Windows.Media;
@@ -2102,12 +2101,13 @@ namespace AutoKorsak
             ExecutePairWindow(editPair);
         }
 
+        bool needRestart;
+
         private void tour_Initialized(object sender, EventArgs e)
         {
             this.LoadSettings();
 
             // Perform restarting if needed
-            bool needRestart;
             _appBc.CheckUpdateState(out needRestart);
             if (needRestart)
             {
@@ -2133,13 +2133,17 @@ namespace AutoKorsak
                 return;
             }
 
-            WindowHelper.SaveLanguage(CurrentLanguage);
+            if (!needRestart)
+            {
+                WindowHelper.SaveLanguage(CurrentLanguage);
 
-            WindowHelper.SaveTheme(CurrentTheme);
-            WindowHelper.SavePlayerDbKind(LocalPlayerDbKind);
-            WindowHelper.SavePlayerDbUsage(LocalPlayerDbUsage);
-            WindowHelper.SaveUseTransliteration(UseTransliteration);
-            this.SaveSettings();
+                WindowHelper.SaveTheme(CurrentTheme);
+                WindowHelper.SavePlayerDbKind(LocalPlayerDbKind);
+                WindowHelper.SavePlayerDbUsage(LocalPlayerDbUsage);
+                WindowHelper.SaveUseTransliteration(UseTransliteration);
+                this.SaveSettings();
+            }
+
             Application.Current.Shutdown();
         }
 
